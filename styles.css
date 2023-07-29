@@ -1,0 +1,188 @@
+img {
+    width: 20px;
+
+}
+
+.term {
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 70vh;
+    height: 120vh;
+    margin-left: 450px;
+    padding-left: 10px;
+ 
+    justify-content: center;
+    border-radius: 7px ;
+    border-color: #9c2428;
+    
+}
+
+.text {
+    opacity: 0.6;
+    /* font-family:  sans-serif ; */
+   
+    
+
+}
+
+.droptext {
+    font-size: small;
+}
+
+.Gender {
+    width: 23vh;
+    float: left;
+    margin-right: 15vh;
+
+}
+
+.Tob {
+    width: 23vh;
+    float: left;
+    padding-right: 4vh;
+    margin-right: 3vh;
+
+}
+
+.b1 {
+    margin-left: 4vh;
+}
+
+.DOB , .income , .edu {
+    margin-top: 2vh;
+    margin-right: 15vh;
+    width: 23vh;
+    float: left;
+}
+
+.mob,.emp,.code {
+    float: left;
+    margin-top: 2vh;
+    padding-right: 4vh;
+}
+
+.EmailID {
+    width: 50vh;
+    height:32px;
+    /* width:173px; */
+    background-color: #fff;
+    border-radius: 7px;
+}
+
+.City {
+    width: 51vh;
+    height:38px;
+    /* width:173px; */
+    background-color: #fff;
+    border-radius: 7px;
+
+}
+
+.chk {
+    margin-top: 10vh;
+    margin-right: 20vh;
+}
+
+.C1 {
+    width: 23vh;
+    float: left;
+    margin-right: 25vh;
+    margin-bottom: 1px;
+}
+
+.txt {
+    font-size: small;
+    margin-bottom: 1vh;
+}
+
+.Premium {
+    margin-left: 10vh;
+    margin-bottom: 10vh;
+    width: 40vh;
+    margin-right: 10vh;
+    margin-top: 3vh;
+    background-color:#e06336;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-size: 16px;
+    border-radius: 7px;
+    border-color: orange;
+    /* width:100vh; */
+}
+
+.NRI {
+    font-family: 'Mulish', sans-serif !important;
+    background-color: rgba(128, 128, 128, 0.221);
+    height: 5vh;
+    padding-left: 2vh;
+    width: 50vh;
+
+}
+
+.opn {
+    padding-top: 7px;
+}
+
+.Y,
+.N {
+
+    color: #444;
+    background-color: #fff;
+    display: inline-flex;
+
+    width: 52px;
+    height: 32px;
+    box-shadow: 0 1px 3px #00000029;
+    border: 1px solid #b9b9b9;
+    border-radius: 0 10px 10px 0;
+    margin-bottom: 5vh;
+    padding: 6px 5px 5px 5px;
+    font-size:14px;
+
+
+}
+
+.TOBY {
+    color: #444;
+    background-color: #fff;
+    display: inline-flex;
+
+    width: 52px;
+    height: 32px;
+    box-shadow: 0 1px 3px #00000029;
+    border: 1px solid #b9b9b9;
+    border-radius: 0 10px 10px 0;
+
+    padding: 6px 5px 5px 5px;
+    font-size:14px;
+
+}
+
+.TOBN{
+    color: #444;
+    background-color: #fff;
+    display: inline-flex;
+
+    width: 52px;
+    height: 32px;
+    box-shadow: 0 1px 3px #00000029;
+    border: 1px solid #b9b9b9;
+    border-radius: 0 10px 10px 0;
+
+    padding: 6px 5px 5px 5px;
+    font-size:14px;
+
+}
+
+.drop-down
+{
+    height:32px;
+    width:173px;
+    background-color: #fff;
+    border-radius: 7px;
+}
+
+.M{
+    font-size: 15px;
+    font-weight: 500;
+}
